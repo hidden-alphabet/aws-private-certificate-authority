@@ -1,0 +1,7 @@
+{
+  "CrlConfiguration": {
+    "Enabled": true,
+    "ExpirationInDays": 365,
+    "S3BucketName": "hidden-alphabet"
+  }
+}

@@ -1,0 +1,8 @@
+*.key
+*.csr
+*.crt
+*.srl
+*.json
+
+!certificate-authority.json
+!revocation.json
